@@ -1,6 +1,13 @@
 ---
 title: '关于nvscibuff中获取cuda指针的一次试验'
 date: 2025-07-14
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+
 permalink: /myorinposts/2025/07/关于nvscibuff中获取cuda指针的一次试验/
 tags:
   - sdk

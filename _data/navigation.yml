@@ -11,11 +11,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Resume"
-  #   url: /resume/
+  - title: "Blog Posts"
+    url: /year-archive/
+
    
   - title: "智能驾驶"
     url: /智能驾驶/  
+
     
   - title: "代码生成"
     url: /代码生成/    

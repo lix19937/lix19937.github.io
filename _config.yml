@@ -216,8 +216,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  publications:
-    output: true
+
+#  publications:
+#    output: true
 
   myadposts:
     output: true
