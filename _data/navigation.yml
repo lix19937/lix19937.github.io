@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 # lix 
 main:
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Resume"
   #   url: /resume/
