@@ -8,19 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 # lix 
 main:
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
-
    
   - title: "智能驾驶"
-    url: /智能驾驶/  
-    
-  - title: "代码生成"
-    url: /代码生成/    
-    
+    url: /智能驾驶/ 
+   
   - title: "J6推理"
     url: /J6推理/
 
@@ -30,5 +26,8 @@ main:
   - title: "编程与工具"
     url: /编程与工具/   
 
+  - title: "代码生成"
+    url: /代码生成/    
+    
   - title: "技术无关"
     url: /技术无关/   
