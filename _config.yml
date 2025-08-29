@@ -244,6 +244,10 @@ collections:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
+  mythorposts:
+    output: true
+    permalink: /myposts/:year/:month/:day/:title
+    
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
