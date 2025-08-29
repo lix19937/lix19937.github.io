@@ -11,8 +11,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
    
-  - title: "智能驾驶"
-    url: /智能驾驶/ 
+  # - title: "智能驾驶"
+  #   url: /智能驾驶/ 
    
   - title: "J6推理"
     url: /J6推理/
