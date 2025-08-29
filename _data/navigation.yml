@@ -20,6 +20,9 @@ main:
   - title: "Orin推理"
     url: /Orin推理/  
 
+  - title: "Thor推理"
+    url: /Thor推理/  
+
   - title: "编程与工具"
     url: /编程与工具/   
 
