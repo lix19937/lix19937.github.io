@@ -1,0 +1,6 @@
+#7F7d8or
+#7F7d8or
+
+
+
+set solib-search-path /data/ljw/nfs/gitlab/0723/adc0714/thirdparty_lib:/data/ljw/nfs/gitlab/ADCV2/install/nni_node/aarch64/lib:/data/ljw/nfs/gitlab/ADCV2/install/nni/aarch64/lib:/data/ljw/nfs/gitlab/0723/adc0714/lib
