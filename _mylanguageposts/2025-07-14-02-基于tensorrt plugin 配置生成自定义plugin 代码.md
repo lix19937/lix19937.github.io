@@ -8,7 +8,7 @@ comments: true
 share: true
 related: true
 
-permalink: /mycgposts/2025/07/基于tensorrt plugin 配置生成自定义plugin 代码/
+permalink: /mylanguageposts/2025/07/基于tensorrt plugin 配置生成自定义plugin 代码/
 tags:
   - sdk
 

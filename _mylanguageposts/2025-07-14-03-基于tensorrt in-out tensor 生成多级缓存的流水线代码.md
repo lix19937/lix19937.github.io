@@ -8,7 +8,7 @@ comments: true
 share: true
 related: true
 
-permalink: /mycgposts/2025/07/基于tensorrt in-out tensor 生成多级缓存的流水线代码/
+permalink: /mylanguageposts/2025/07/基于tensorrt in-out tensor 生成多级缓存的流水线代码/
 tags:
   - sdk
 
