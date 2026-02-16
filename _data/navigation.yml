@@ -14,14 +14,14 @@ main:
   # - title: "智能驾驶"
   #   url: /智能驾驶/ 
    
-  - title: "J6推理"
-    url: /J6推理/
+  - title: "J6"
+    url: /J6/
 
-  - title: "Orin推理"
-    url: /Orin推理/  
+  - title: "Orin"
+    url: /Orin/  
 
-  - title: "Thor推理"
-    url: /Thor推理/  
+  - title: "Thor"
+    url: /Thor/  
 
   - title: "编程"
     url: /编程/   
