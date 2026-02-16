@@ -26,8 +26,5 @@ main:
   - title: "编程"
     url: /编程/   
 
-  - title: "代码生成"
-    url: /代码生成/    
-
   - title: "技术无关"
     url: /技术无关/   
